@@ -109,7 +109,7 @@ def jalan(z):
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
    
-logo = '\x1b[1;97m\n\x1b[1;93mTools :\x1b[1;96mDragon-V1.2\x1b[1;97m\n\x1b[1;93mAuthor:Yoga Wira\x1b[1;97m\x1b[1;96m\x1b[1;97m \x1b[1;97m\n\x1b[1;93mTeam  :\x1b[1;91mBrother Victory\n'
+logo = '\x1b[1;97m\n\x1b[1;93mTools :\x1b[1;96mDragon-V1.2\x1b[1;97m\n\x1b[1;93mAuthor:Muhamad Badru Wasih\x1b[1;97m\x1b[1;96m\x1b[1;97m \x1b[1;97m\n\x1b[1;93mWhatsapps  :\x1b[1;91m08985499841\n'
 
 print '\x1b[1;96m                   /\  /--\  '                
 print '\x1b[1;96m           _______/  \/    1 '
